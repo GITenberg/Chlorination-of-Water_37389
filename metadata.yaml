@@ -1,0 +1,25 @@
+_repo: Chlorination-of-Water_37389
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Race, Joseph
+    gutenberg_agent_id: '38817'
+    url: http://www.gutenberg.org/2009/agents/38817
+description: ''
+gutenberg_issued: '2011-09-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37389'
+  lccn: '18022023'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TD'
+- !lcsh 'Water -- Purification -- Chlorination'
+title: Chlorination of Water
+url: http://www.gutenberg.org/ebooks/37389
